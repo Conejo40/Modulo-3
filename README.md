@@ -50,14 +50,14 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+|  S01   | Git y GitHub | _En esta clase aprendi a crear ramas y trabajar de forma colaborativa para crear una _ | [ver](Unidad_1_control_de_versiones/Clase-20-7-2026) | [ver](recursos/Captura%20de%20pantalla%202026-07-23%20145218.png) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                          |      Trabajo      |     Captura      |
 | :----: | :----------------------------- | :--------------------------------------------------- | :---------------: | :--------------: |
-|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos git para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
+|  S02   | Git colaborativo, la web y XML | Aprendi sobre comandos para trabajo colaborativo | [ver](unidad-02/) | [ver](recursos/) |
 |  S03   | Estructura del documento HTML5 |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S04   | Texto, enlaces y anclas        |                                                      | [ver](unidad-02/) | [ver](recursos/) |
 |  S05   | Listas y tablas                |                                                      | [ver](unidad-02/) | [ver](recursos/) |
