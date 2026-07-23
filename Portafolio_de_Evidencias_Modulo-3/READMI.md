@@ -5,3 +5,6 @@ Unidad_1_control_de_versiones
 Unidad_2_HTML
     -Fundamentos de Internet
     -Conceptos de XML
+    -Metadatos y nuestros metadatos
+    -W3C validacion HTML
+    -Favicon y title
